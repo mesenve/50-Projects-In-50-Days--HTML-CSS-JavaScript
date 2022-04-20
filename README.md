@@ -7,6 +7,10 @@
 
 
 
+Uploading CUTTER.mp4…
+
+
+
 
 
 
@@ -28,54 +32,67 @@ Coming soon
 Coming soon
 
 **PROJECT 5**
+-BLURRY LOADING
 
 Coming soon
 
 **PROJECT 6**
+-SCROLL ANIMATION
 
 Coming soon
 
 **PROJECT 7**
+-SPLIT LANDING PAGE	
 
 Coming soon
 
 **PROJECT 8**
+-FORM WAVE
 
 Coming soon
 
 **PROJECT 9**
+-SOUND BOARD
 
 Coming soon
 
 **PROJECT 10**
+-DAD JOKES	
 
 Coming soon
 
 **PROJECT 11**
+-EVENT KEYCODES
 
 Coming soon
 
 **PROJECT 12**
+-FAQ COLLAPSE
 
 Coming soon
 
 **PROJECT 13**
+-RANDOM CHOICE PICKER
 
 Coming soon
 
 **PROJECT 14**
+-ANIMATED NAVIGATION	
 
 Coming soon
 
 **PROJECT 15**
+-INCREMENTING COUNTER
 
 Coming soon
 
 **PROJECT 16**
+-DRINK WATER
 
 Coming soon
 
 **PROJECT 17**
+-MOVIE APP	
 
 Coming soon
 
