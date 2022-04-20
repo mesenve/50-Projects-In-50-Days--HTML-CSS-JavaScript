@@ -19,6 +19,7 @@
 
 **PROJECT 3**
 
+Coming soon
 
 **PROJECT 4**
 
@@ -37,27 +38,22 @@
 **PROJECT 11**
 
 **PROJECT 12**
+
 **PROJECT 13**
+
 **PROJECT 14**
+
 **PROJECT 15**
+
 **PROJECT 16**
+
 **PROJECT 17**
+
 **PROJECT 18**
+
 **PROJECT 19**
+
 **PROJECT 20**
-
-
-**PROJECT 21**
-**PROJECT 22**
-**PROJECT 23**
-**PROJECT 24**
-**PROJECT 25**
-**PROJECT 26**
-**PROJECT 27**
-**PROJECT 28**
-**PROJECT 29**
-**PROJECT 30**
-
 
 **PROJECT 21**
 **PROJECT 22**
