@@ -6,7 +6,10 @@
 
 
 
+
+
+
+
 **PROJECT 2**
 -PROGRESS STEPS
-https://user-images.githubusercontent.com/97444737/164289497-3ee696a8-5bcd-488a-9244-06c0ce407e8f.mp4
-
+![STEPS GİF](https://user-images.githubusercontent.com/97444737/164291925-593de050-b3e7-4894-afc6-b748fda418c4.gif)
