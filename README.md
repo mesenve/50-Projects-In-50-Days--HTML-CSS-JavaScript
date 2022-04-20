@@ -18,10 +18,12 @@
 
 
 **PROJECT 3**
+-ROTATING NAVIGATION ANIMATION
 
 Coming soon
 
 **PROJECT 4**
+-HIDDEN SEARCH WIDGET
 
 Coming soon
 
