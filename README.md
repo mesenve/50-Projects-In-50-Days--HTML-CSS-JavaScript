@@ -5,11 +5,7 @@
 -EXPANDING CARDS
 
 
-
-
-Uploading CUTTER.mp4…
-
-
+![SON HALI](https://user-images.githubusercontent.com/97444737/164299583-a8c27b97-6214-438c-9127-e4c59acc12d4.gif)
 
 
 
@@ -97,136 +93,167 @@ Coming soon
 Coming soon
 
 **PROJECT 18**
+-BACKGROUND SLIDER
 
 Coming soon
 
 **PROJECT 19**
+-THEME CLOCK
 
 Coming soon
 
 **PROJECT 20**
+-BUTTON RİPPLE EFFECT
 
 Coming soon
 
 **PROJECT 21**
+-DRAG N DROP
 
 Coming soon
 
 **PROJECT 22**
+-DRAWİNG APP
 
 Coming soon
 
 **PROJECT 23**
+-KİNETİC LOADER
 
 Coming soon
 
 **PROJECT 24**
+-CONTENT PLACEHOLDER
 
 Coming soon
 
 **PROJECT 25**
+-STICKY NAVBAR
 
 Coming soon
 
 **PROJECT 26**
+-DOUBLE VERTİCAL SLİDER
 
 Coming soon
 
 **PROJECT 27**
+-TOAST NOTIFICATION
 
 Coming soon
 
 **PROJECT 28**
-
+-GİTHUB PROFILES
 
 Coming soon
 
 **PROJECT 29**
+-DOUBLE CLICK HEART
 
 Coming soon
 
 **PROJECT 30**
+-AUTO TEXT EFFECT
 
 Coming soon
 
 **PROJECT 31**
+-PASSWORD GENERATOR	
 
 Coming soon
 
 **PROJECT 32**
+-GOOD CHEAP FAST
 
 Coming soon
 
 **PROJECT 33**
+-NOTES APP
 
 Coming soon
 
 **PROJECT 34**
+-ANIMATED COUNTDOWN
 
 Coming soon
 
 **PROJECT 35**
+-IMAGE CAROUSEL
 
 Coming soon
 
 **PROJECT 36**
+-HOVERBOARD
 
 Coming soon
 
 **PROJECT 37**
+-POKEDEX
 
 Coming soon
 
 **PROJECT 38**
+-MOBILE TAB NAVIGATION
 
 Coming soon
 
 **PROJECT 39**
+-PASSWORD STRENGTH BACKGROUND
 
 Coming soon
 
 **PROJECT 40**
+-3D BACKGROUND BOXES
 
 Coming soon
 
 **PROJECT 41**
+-VERİFY ACCOUNT UI
 
 Coming soon
 
 **PROJECT 42**
+-LIVE USER FILTER
 
 Coming soon
 
 **PROJECT 43**
+-FEEDBACK UI DESIGN
 
 Coming soon
 
 **PROJECT 44**
+-CUSTOM RANGE SLIDER
 
 Coming soon
 
 **PROJECT 45**
+-NETFLIX MOBILE NAVIGATION
 
 Coming soon
 
 **PROJECT 46**
+-QUIZ APP	
 
 Coming soon
 
 **PROJECT 47**
+-TESTIMONIAL BOX SWITCHER
 
 Coming soon
 
 **PROJECT 48**
+-RANDOM IMAGE FEED
 
 Coming soon
 
 **PROJECT 49**
+-TODO LİST
 
 Coming soon
 
 **PROJECT 50**
-
+-INSECT CATCH GAME
 
 Coming soon
 
