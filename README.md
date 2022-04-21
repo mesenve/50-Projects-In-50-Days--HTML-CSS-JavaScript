@@ -24,7 +24,11 @@
 **PROJECT 3**
 -ROTATING NAVIGATION ANIMATION
 
-Coming soon
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/97444737/164516580-8427b652-aa92-4119-bce8-b1bc4734c26a.gif)
+
+
+
 
 **PROJECT 4**
 -HIDDEN SEARCH WIDGET
