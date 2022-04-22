@@ -31,10 +31,13 @@
 
 
 
+
 **PROJECT 4**
 -HIDDEN SEARCH WIDGET
 
-Coming soon
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/97444737/164688115-1b4c5078-4bc7-4e30-a63e-03401ce9fc93.gif)
+
 
 **PROJECT 5**
 -BLURRY LOADING
