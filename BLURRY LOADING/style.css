@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Gluten:wght@200&family=Poppins:wght@300&display=swap');
+
+*{
+    box-sizing:border-box;
+}
+
+body{
+    font-family: 'Gluten', cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin:0;
+    overflow: hidden;
+    font-size: 24px;
+    
+}
+
+.bg{
+    background: no-repeat center/cover
+    url('https://hd-wallpaper.wiki/wp-content/uploads/2022/02/cute-animal-food-wallpaper.jpg');
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+    filter: blur(0px);
+}
+
+.loading-text{
+    color: rgb(18, 188, 18);
+    font-size:100px;
+}
