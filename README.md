@@ -42,7 +42,17 @@
 **PROJECT 5**
 -BLURRY LOADING
 
-Coming soon
+
+
+
+
+
+https://user-images.githubusercontent.com/97444737/164981280-df32e647-ba73-49d5-bf92-702b68e8cfc9.mp4
+
+
+
+
+
 
 **PROJECT 6**
 -SCROLL ANIMATION
