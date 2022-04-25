@@ -57,7 +57,11 @@
 **PROJECT 6**
 -SCROLL ANIMATION
 
-Coming soon
+
+![animationgif](https://user-images.githubusercontent.com/97444737/165129022-de208f78-f8e1-4b2d-a5f5-93386bdc5548.gif)
+
+
+
 
 **PROJECT 7**
 -SPLIT LANDING PAGE	
