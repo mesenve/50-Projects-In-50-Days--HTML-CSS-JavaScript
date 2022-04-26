@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Yrsa:wght@300&display=swap');
+
+*{
+    box-sizing:border-box;
+}
+
+body{
+    font-family: 'Yrsa', serif;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    display: flex;
+    background-image: linear-gradient(45deg, #ddbea9 25%, #ffe8d6 25%, #ffe8d6 50%, #ddbea9 50%, #ddbea9 75%, #ffe8d6 75%, #ffe8d6 100%);
+    margin:0;
+    overflow:hidden;
+    font-size: 20px;
+  
+
+}
+
+.container{
+    background-color: #dde5b6;
+    padding:20px 40px;
+    border-radius:10px;
+    box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.6);
+    
+}
+
+.container h1{
+    color:#6C584C;
+    margin-bottom: 30px;
+    text-align:center;
+}
+
+.container a{
+    text-decoration: none;
+}
+
+.form-control{
+    position:relative;
+    margin: 20px 0 40px;
+    width:300px;
+    color:#6C584C;
+    font-size:20px;
+    
+
+}
+
+.form-control input{
+    border:0;
+    border-bottom: 4px solid #ece5c8;
+    display:block;
+    background-color: transparent;
+    width:100%;
+    padding:15px;
+    color:#A98467;
+    
+}
+
+.form-control input:valid,
+.form-control input:focus{
+    outline:none;
+    border-bottom-color:#ADC178; 
+    font-size: 20px;
+    
+}
+
+.btn{
+    cursor:pointer;
+    display: inline-block;
+    width:100%;
+    background-color: #6C584C;
+    color:#ece5c8;
+    border:none;
+    font-size:20px;
+    padding:15px;
+    border-radius:25px;
+    font-family:inherit;
+}
+
+.btn:focus{
+    outline:none;
+}
+
+.btn:active{
+    transform: scale(0.98);
+}
+
+.text{
+    font-size: 20px;
+    margin-top: 30px;
+    
+}
+
+.text a:hover{
+    text-shadow:2px 3px 10px rgba(89, 40, 20, 0.3);
+}
+
+.form-control label{
+    position: absolute;
+    top: 15px;
+    left:0;
+   
+}
+
+.form-control label span {
+    display: inline-block;
+    font-size: 24px;
+    min-width: 5px;
+    transition: 0.3s cubic-bezier(0.7, -0.6, 0.3, 1.55);
+    
+  }
+  
+  .form-control input:focus + label span,
+  .form-control input:valid + label span {
+    color:#ADC178;
+    transform: translateY(-30px);
+    
+  
+    
+  }
