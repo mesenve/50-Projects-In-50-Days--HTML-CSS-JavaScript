@@ -66,7 +66,10 @@
 **PROJECT 7**
 -SPLIT LANDING PAGE	
 
-Coming soon
+
+![7gun projegif](https://user-images.githubusercontent.com/97444737/165291345-25918ea6-6db0-4841-9510-df9143eab81d.gif)
+
+
 
 **PROJECT 8**
 -FORM WAVE
