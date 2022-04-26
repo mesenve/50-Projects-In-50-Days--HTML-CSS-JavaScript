@@ -74,7 +74,10 @@
 **PROJECT 8**
 -FORM WAVE
 
-Coming soon
+![rpoje8 gif](https://user-images.githubusercontent.com/97444737/165368510-18f1e375-8306-49b6-889b-85d7fad5aed4.gif)
+
+
+
 
 **PROJECT 9**
 -SOUND BOARD
