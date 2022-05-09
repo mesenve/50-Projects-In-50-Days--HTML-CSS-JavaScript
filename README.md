@@ -112,7 +112,10 @@ Coming soon
 **PROJECT 13**
 -RANDOM CHOICE PICKER
 
-Coming soon
+
+https://user-images.githubusercontent.com/97444737/167433002-cd4d6d82-d2cc-4d7d-a248-9acbfd2878d4.mp4
+
+
 
 **PROJECT 14**
 -ANIMATED NAVIGATION	
@@ -121,6 +124,9 @@ Coming soon
 
 **PROJECT 15**
 -INCREMENTING COUNTER
+
+
+
 
 Coming soon
 
