@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+*{
+    box-sizing:border-box;
+}
+
+body{
+    font-family: 'PT Sans', sans-serif;
+    margin: 0;
+    background-color: #c6e9f6;
+}
+
+h1{
+    margin:0;
+    color:#7983f5;
+    text-align:center;
+    padding: 30px 5px;
+    letter-spacing:2px;
+}
+
+.faq-container{
+    max-width: 600px;
+    margin: 0 auto;
+    padding:10px;
+}
+
+.faq{
+    background-color:transparent;
+    border: 3px solid #7983f5;
+    border-radius:10px;
+    margin:20px 0;
+    padding:30px;
+    overflow:hidden;
+    transition:0.3 ease;
+    position:relative;
+}
+
+.faq.active{
+    background-color:#dff6f9;
+    box-shadow:0 3px 6px rgba(0, 0, 0, 0.3);
+}
+
+.faq.active::before, .faq.active::after{
+    content:"\f075";
+    font-family: "Font Awesome 6 Free";
+    color:#515ff1;
+    font-size:7rem;
+    position: absolute;
+    top: 20px;
+    left:20px;
+    z-index:0;
+    opacity:0.2;
+}
+
+.faq.active::before{
+    color: black;
+    top:-10px;
+    left:-30px;
+    transform: rotateY(180deg);
+}
+
+.faq-title{
+    margin:0 35px 0 0;
+    transition:0.3 ease;
+}
+
+.faq.active .faq-title{
+   color: #7983f5;
+
+}
+
+.faq-text{
+   margin:30px 0 0;
+    display:none;
+}
+
+.faq.active .faq-text{
+    display:block;
+}
+
+.faq-toggle{
+    background-color:transparent;
+    border:0;
+    cursor:pointer;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:16px;
+    padding: 0;
+    position:absolute;
+    top:30px;
+    right: 30px;
+    transition:0.3s ease;
+
+}
+
+.faq.active .faq-toggle{
+    color:#a6def3;
+}
+
+.faq-toggle .fa-circle-xmark{
+    display:none;
+}
+
+.faq.active .faq-toggle .fa-circle-xmark{
+    display:block;
+}
+
+
+.faq.active .faq-toggle .fa-circle-chevron-down{
+    display:none;
+}
+
