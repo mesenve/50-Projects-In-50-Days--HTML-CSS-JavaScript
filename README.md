@@ -111,10 +111,7 @@ Coming soon
 
 **PROJECT 13**
 -RANDOM CHOICE PICKER
-
-
-https://user-images.githubusercontent.com/97444737/167433002-cd4d6d82-d2cc-4d7d-a248-9acbfd2878d4.mp4
-
+![chrome_fwV3b1ZrWX](https://user-images.githubusercontent.com/97444737/167433474-84acfc3a-4bba-4dac-8b42-ee77d9d0507a.gif)
 
 
 **PROJECT 14**
