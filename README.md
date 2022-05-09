@@ -105,7 +105,9 @@ Coming soon
 **PROJECT 12**
 -FAQ COLLAPSE
 
-Coming soon
+
+![12projegif](https://user-images.githubusercontent.com/97444737/167359028-eaa80167-9856-46b4-a25f-c110f62577ab.gif)
+
 
 **PROJECT 13**
 -RANDOM CHOICE PICKER
