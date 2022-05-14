@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+
+body{
+    font-family: 'Macondo', cursive;
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    min-height:100vh;
+    margin:0;
+}
+
+
+.title{
+    text-align:center;
+    letter-spacing:2px;
+    margin: 10px 0 30px 0;
+    text-transform: uppercase;
+}
+
+.container{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-wrap: wrap;
+    max-width: 1000px;
+
+}
+
+.container img{
+    object-fit:cover;
+    margin: 10px;
+    height: 300px;
+    width: 300px;
+    max-width:100%;
+}
