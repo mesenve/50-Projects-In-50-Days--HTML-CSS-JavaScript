@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+
+*{
+    box-sizing:border-box;
+}
+
+body{
+    overflow-x:hidden;
+    background-color: rgb(190, 141, 236);
+    color:#fff;
+}
+
+
+.container{
+    display:flex;
+    text-align:center;
+    justify-content:center;
+    height:100vh;
+
+}
+
+.counter-container{
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    margin: 30px 50px;
+    text-align:center;
+}
+
+.counter{
+    font-size:60px;
+    margin-top:10px;
+    letter-spacing:10px;
+
+}
+
+span{
+    letter-spacing:5px;
+
+}
+
+@media (max-width: 1000px) {
+    .container{
+        flex-direction:column;
+        height:auto;
+    }
+}
