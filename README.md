@@ -136,9 +136,12 @@ Coming soon
 Coming soon
 
 **PROJECT 17**
--MOVIE APP	
+-KINETIC LOADER
 
-Coming soon
+
+![17gif](https://user-images.githubusercontent.com/97444737/168466169-8246ae7d-3fad-4115-8172-9fcefc215707.gif)
+
+
 
 **PROJECT 18**
 -BACKGROUND SLIDER
@@ -166,7 +169,7 @@ Coming soon
 Coming soon
 
 **PROJECT 23**
--KİNETİC LOADER
+-MOVIE APP
 
 Coming soon
 
