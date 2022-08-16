@@ -292,7 +292,10 @@ Coming soon
 **PROJECT 47**
 -TESTIMONIAL BOX SWITCHER
 
-Coming soon
+
+![GİF26](https://user-images.githubusercontent.com/97444737/184939342-dc7f84fc-b288-4465-858a-2e87d6e640e4.gif)
+
+
 
 **PROJECT 48**
 -RANDOM IMAGE FEED
