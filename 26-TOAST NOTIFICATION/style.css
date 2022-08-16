@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+*{
+    box-sizing:border-box;
+}
+body{
+font-family: 'Ubuntu', sans-serif;
+display:flex;
+flex-direction: column;
+justify-content: center;
+align-items:center;
+height:100vh;
+margin:0;
+}
+
+.button{
+    background-color: tomato;
+    border:none;
+    border-radius: 2rem;
+    font-family: inherit;
+    padding:1rem;
+    color:#fff;
+    font-weight:bold;
+    letter-spacing: 2px;
+    font-size:1.2rem;
+    cursor:pointer;
+}
+
+.button:focus {
+    outline: none;
+}
+
+.button:active {
+    transform: scale(0.95);
+}
+
+.notifContainer{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+
+}
+
+.notif{
+    padding: 0.5rem 1rem;
+    margin:0.5rem;
+    border-radius: 1rem;
+    color: #fff;
+}
+
+.notif.red{
+    background-color: red;
+}
+
+.notif.purple{
+    background-color: purple;
+}
+
+.notif.black{
+    background-color: black;
+}
+
+.notif.gray{
+    background-color: gray;
+}
+
+.notif.green{
+    background-color: green;
+}
+
+.notif.blue{
+    background-color: blue;
+}
+
+
